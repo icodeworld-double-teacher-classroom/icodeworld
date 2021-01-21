@@ -5,7 +5,7 @@ author: icodeworld
 url: https://www.icodeworld.cn
 resume_site: https://www.icodeworld.cn
 github: https://github.com/icodeworld-double-teacher-classroom
-baseurl: "https://icodeworld-double-teacher-classroom.github.io/icodeworld/"
+baseurl: "/icodeworld"
 description: 万物皆可编程，用创意丰富这个世界吧！
 meta_description: icodeworld;icodeworld编程世界双师课堂;icodeworld编程世界;少儿编程课程授权;少儿编程;编程世界
 motto: 万物皆可编程，用创意丰富这个世界吧！
