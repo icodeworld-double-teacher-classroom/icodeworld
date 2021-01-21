@@ -23,3 +23,5 @@ github_username: icodeworld-double-teacher-classroom
 markdown: kramdown
 
 baidu_analysis: 
+
+theme: jekyll-theme-cayman
